@@ -1,6 +1,6 @@
 {
     "version": "1.0.0",
-    "changelog": "",
+    "changelog": "Primeira invocação: panteão de mitologias.",
     "minecraft_version": "1.20.1",
     "forge_version": "47.2.0",
     "mods": [
@@ -9,15 +9,6 @@
             "file": "showthelyrics-2.1.4-1.20.1-forge.jar",
             "url": "https://raw.githubusercontent.com/dkzinz/nemesis-modpack/main/mods/showthelyrics-2.1.4-1.20.1-forge.jar",
             "sha1": "c14e8d82d97f6e19dadfc6211f4978b8d3d4aa70"
-        }
-    ],
-    "extras": [
-        {
-            "name": "Menu dos Deuses (config + artes)",
-            "path": "config/nemeses-fancymenu.zip",
-            "url": "https://raw.githubusercontent.com/dkzinz/nemesis-modpack/main/packs/nemeses-fancymenu.zip",
-            "sha1": "1aabad41d1b08dbf1051759d73a9a15afa32bfae",
-            "extract_to": "config"
         }
     ]
 }
